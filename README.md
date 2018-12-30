@@ -1,5 +1,5 @@
 # Custom-Loading-Bar
-Program that makes a loading bar gif
+Program that makes a loading bar .gif file
 
 The height, width, and two colors are changeable
 
