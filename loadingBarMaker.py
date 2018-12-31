@@ -1,5 +1,5 @@
 # Program Made By: Ian McDowell
-# Started and Finished 30 December 2018
+# Started 30 December 2018
 
 from PIL import Image
 import glob, os, imageio
